@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Backend: Flask API Server",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/server/app.py",
+      "cwd": "${workspaceFolder}/server",
+      "python": "${workspaceFolder}/server_venv/Scripts/python.exe",
+      "env": {
+        "FLASK_ENV": "development",
+        "PYTHONUNBUFFERED": "1"
+      },
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Frontend: Chrome / Edge",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://127.0.0.1:5173",
+      "webRoot": "${workspaceFolder}/client"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "QueueSmart AI: Full Stack (Backend + Browser)",
+      "configurations": ["Backend: Flask API Server", "Frontend: Chrome / Edge"]
+    }
+  ]
+}

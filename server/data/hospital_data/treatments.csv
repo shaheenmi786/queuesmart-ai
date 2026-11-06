@@ -1,0 +1,201 @@
+treatment_id,appointment_id,treatment_type,description,service_duration_minutes
+T001,A001,Physical Therapy,Specialist referral and laboratory test,32.5
+T002,A002,Surgery Consultation,Routine vital sign monitoring,34.3
+T003,A003,Medication,Specialist referral and laboratory test,18.2
+T004,A004,Surgery Consultation,Specialist referral and laboratory test,42.6
+T005,A005,ECG Monitoring,Prescription adjustment and counseling,18.8
+T006,A006,Surgery Consultation,Diagnostic evaluation with review,33.8
+T007,A007,Medication,Routine vital sign monitoring,22.9
+T008,A008,Diagnostic Scan,Clinical examination and therapy,23.8
+T009,A009,Surgery Consultation,Prescription adjustment and counseling,32.7
+T010,A010,Physical Therapy,Specialist referral and laboratory test,32.7
+T011,A011,Medication,Clinical examination and therapy,12.7
+T012,A012,Diagnostic Scan,Prescription adjustment and counseling,17.7
+T013,A013,Medication,Routine vital sign monitoring,16.2
+T014,A014,Physical Therapy,Specialist referral and laboratory test,20.4
+T015,A015,ECG Monitoring,Routine vital sign monitoring,11.4
+T016,A016,Medication,Prescription adjustment and counseling,12.2
+T017,A017,Medication,Clinical examination and therapy,9.9
+T018,A018,Surgery Consultation,Diagnostic evaluation with review,36.6
+T019,A019,Physical Therapy,Specialist referral and laboratory test,25.5
+T020,A020,Physical Therapy,Routine vital sign monitoring,22.9
+T021,A021,ECG Monitoring,Clinical examination and therapy,27.3
+T022,A022,Physical Therapy,Clinical examination and therapy,28.9
+T023,A023,Medication,Diagnostic evaluation with review,15.3
+T024,A024,ECG Monitoring,Prescription adjustment and counseling,12.9
+T025,A025,Physical Therapy,Diagnostic evaluation with review,27.3
+T026,A026,ECG Monitoring,Diagnostic evaluation with review,20.6
+T027,A027,Physical Therapy,Prescription adjustment and counseling,24.2
+T028,A028,Physical Therapy,Prescription adjustment and counseling,31.9
+T029,A029,Surgery Consultation,Prescription adjustment and counseling,32.0
+T030,A030,Physical Therapy,Clinical examination and therapy,28.5
+T031,A031,ECG Monitoring,Clinical examination and therapy,17.0
+T032,A032,Medication,Specialist referral and laboratory test,24.3
+T033,A033,Surgery Consultation,Specialist referral and laboratory test,34.9
+T034,A034,Physical Therapy,Diagnostic evaluation with review,24.7
+T035,A035,Physical Therapy,Diagnostic evaluation with review,34.1
+T036,A036,ECG Monitoring,Specialist referral and laboratory test,13.9
+T037,A037,Surgery Consultation,Routine vital sign monitoring,36.0
+T038,A038,Physical Therapy,Diagnostic evaluation with review,20.2
+T039,A039,Medication,Routine vital sign monitoring,8.4
+T040,A040,Medication,Routine vital sign monitoring,16.0
+T041,A041,Physical Therapy,Prescription adjustment and counseling,33.7
+T042,A042,Medication,Clinical examination and therapy,15.9
+T043,A043,Surgery Consultation,Specialist referral and laboratory test,34.4
+T044,A044,Physical Therapy,Clinical examination and therapy,28.5
+T045,A045,ECG Monitoring,Specialist referral and laboratory test,12.6
+T046,A046,Surgery Consultation,Clinical examination and therapy,31.4
+T047,A047,Medication,Specialist referral and laboratory test,12.7
+T048,A048,Physical Therapy,Clinical examination and therapy,35.3
+T049,A049,Surgery Consultation,Prescription adjustment and counseling,36.7
+T050,A050,Medication,Routine vital sign monitoring,8.0
+T051,A051,Physical Therapy,Specialist referral and laboratory test,31.6
+T052,A052,Diagnostic Scan,Routine vital sign monitoring,18.1
+T053,A053,ECG Monitoring,Specialist referral and laboratory test,16.6
+T054,A054,Medication,Specialist referral and laboratory test,18.1
+T055,A055,Medication,Prescription adjustment and counseling,20.2
+T056,A056,Diagnostic Scan,Clinical examination and therapy,24.7
+T057,A057,Diagnostic Scan,Specialist referral and laboratory test,15.8
+T058,A058,Surgery Consultation,Clinical examination and therapy,33.5
+T059,A059,ECG Monitoring,Prescription adjustment and counseling,21.7
+T060,A060,ECG Monitoring,Diagnostic evaluation with review,24.9
+T061,A061,Medication,Routine vital sign monitoring,12.6
+T062,A062,Diagnostic Scan,Specialist referral and laboratory test,19.1
+T063,A063,ECG Monitoring,Prescription adjustment and counseling,14.5
+T064,A064,Physical Therapy,Clinical examination and therapy,24.0
+T065,A065,ECG Monitoring,Specialist referral and laboratory test,24.1
+T066,A066,Medication,Clinical examination and therapy,21.8
+T067,A067,ECG Monitoring,Diagnostic evaluation with review,19.6
+T068,A068,Surgery Consultation,Specialist referral and laboratory test,40.0
+T069,A069,Diagnostic Scan,Routine vital sign monitoring,21.8
+T070,A070,Medication,Specialist referral and laboratory test,11.8
+T071,A071,Medication,Routine vital sign monitoring,16.8
+T072,A072,Diagnostic Scan,Clinical examination and therapy,27.7
+T073,A073,Diagnostic Scan,Specialist referral and laboratory test,19.8
+T074,A074,Diagnostic Scan,Prescription adjustment and counseling,27.8
+T075,A075,Medication,Prescription adjustment and counseling,8.0
+T076,A076,Diagnostic Scan,Diagnostic evaluation with review,24.1
+T077,A077,Diagnostic Scan,Prescription adjustment and counseling,20.4
+T078,A078,Medication,Diagnostic evaluation with review,13.5
+T079,A079,Medication,Clinical examination and therapy,15.5
+T080,A080,Surgery Consultation,Routine vital sign monitoring,25.1
+T081,A081,ECG Monitoring,Clinical examination and therapy,18.9
+T082,A082,Physical Therapy,Routine vital sign monitoring,31.8
+T083,A083,Medication,Routine vital sign monitoring,22.4
+T084,A084,Physical Therapy,Diagnostic evaluation with review,27.4
+T085,A085,Surgery Consultation,Prescription adjustment and counseling,31.0
+T086,A086,ECG Monitoring,Prescription adjustment and counseling,17.5
+T087,A087,ECG Monitoring,Diagnostic evaluation with review,24.6
+T088,A088,ECG Monitoring,Diagnostic evaluation with review,21.6
+T089,A089,Surgery Consultation,Clinical examination and therapy,32.4
+T090,A090,Diagnostic Scan,Diagnostic evaluation with review,22.6
+T091,A091,ECG Monitoring,Prescription adjustment and counseling,20.5
+T092,A092,ECG Monitoring,Diagnostic evaluation with review,24.8
+T093,A093,Surgery Consultation,Diagnostic evaluation with review,31.5
+T094,A094,Diagnostic Scan,Routine vital sign monitoring,18.4
+T095,A095,ECG Monitoring,Diagnostic evaluation with review,18.0
+T096,A096,ECG Monitoring,Clinical examination and therapy,12.7
+T097,A097,Diagnostic Scan,Diagnostic evaluation with review,21.5
+T098,A098,Medication,Specialist referral and laboratory test,16.3
+T099,A099,Medication,Specialist referral and laboratory test,15.0
+T100,A100,ECG Monitoring,Routine vital sign monitoring,18.8
+T101,A101,Physical Therapy,Routine vital sign monitoring,22.9
+T102,A102,Diagnostic Scan,Specialist referral and laboratory test,17.9
+T103,A103,Diagnostic Scan,Routine vital sign monitoring,18.3
+T104,A104,Physical Therapy,Routine vital sign monitoring,26.0
+T105,A105,Diagnostic Scan,Prescription adjustment and counseling,19.2
+T106,A106,Surgery Consultation,Prescription adjustment and counseling,37.0
+T107,A107,Diagnostic Scan,Diagnostic evaluation with review,29.4
+T108,A108,Diagnostic Scan,Specialist referral and laboratory test,20.9
+T109,A109,Diagnostic Scan,Clinical examination and therapy,21.3
+T110,A110,Medication,Specialist referral and laboratory test,14.6
+T111,A111,Surgery Consultation,Specialist referral and laboratory test,25.4
+T112,A112,Diagnostic Scan,Prescription adjustment and counseling,19.9
+T113,A113,Surgery Consultation,Prescription adjustment and counseling,35.3
+T114,A114,Surgery Consultation,Routine vital sign monitoring,47.3
+T115,A115,Surgery Consultation,Clinical examination and therapy,34.0
+T116,A116,Physical Therapy,Prescription adjustment and counseling,31.5
+T117,A117,Diagnostic Scan,Routine vital sign monitoring,19.8
+T118,A118,Medication,Clinical examination and therapy,9.2
+T119,A119,Medication,Prescription adjustment and counseling,20.7
+T120,A120,Medication,Specialist referral and laboratory test,18.8
+T121,A121,Medication,Specialist referral and laboratory test,19.0
+T122,A122,Diagnostic Scan,Clinical examination and therapy,15.5
+T123,A123,Medication,Clinical examination and therapy,22.0
+T124,A124,Surgery Consultation,Prescription adjustment and counseling,28.0
+T125,A125,Physical Therapy,Prescription adjustment and counseling,32.9
+T126,A126,ECG Monitoring,Clinical examination and therapy,31.0
+T127,A127,Medication,Clinical examination and therapy,10.0
+T128,A128,ECG Monitoring,Routine vital sign monitoring,17.2
+T129,A129,ECG Monitoring,Routine vital sign monitoring,20.5
+T130,A130,ECG Monitoring,Routine vital sign monitoring,17.5
+T131,A131,Surgery Consultation,Specialist referral and laboratory test,27.2
+T132,A132,Medication,Specialist referral and laboratory test,15.3
+T133,A133,Diagnostic Scan,Routine vital sign monitoring,14.7
+T134,A134,Surgery Consultation,Routine vital sign monitoring,37.4
+T135,A135,Diagnostic Scan,Clinical examination and therapy,15.4
+T136,A136,Medication,Specialist referral and laboratory test,22.7
+T137,A137,Surgery Consultation,Routine vital sign monitoring,31.1
+T138,A138,ECG Monitoring,Diagnostic evaluation with review,18.4
+T139,A139,Surgery Consultation,Prescription adjustment and counseling,39.1
+T140,A140,Surgery Consultation,Routine vital sign monitoring,28.8
+T141,A141,Medication,Specialist referral and laboratory test,16.1
+T142,A142,ECG Monitoring,Routine vital sign monitoring,26.5
+T143,A143,ECG Monitoring,Diagnostic evaluation with review,12.0
+T144,A144,Physical Therapy,Clinical examination and therapy,30.9
+T145,A145,Physical Therapy,Specialist referral and laboratory test,31.3
+T146,A146,Diagnostic Scan,Clinical examination and therapy,23.9
+T147,A147,Physical Therapy,Prescription adjustment and counseling,23.8
+T148,A148,Medication,Clinical examination and therapy,8.4
+T149,A149,Surgery Consultation,Routine vital sign monitoring,37.6
+T150,A150,ECG Monitoring,Diagnostic evaluation with review,21.5
+T151,A151,Surgery Consultation,Clinical examination and therapy,36.3
+T152,A152,Medication,Diagnostic evaluation with review,16.7
+T153,A153,Surgery Consultation,Specialist referral and laboratory test,31.6
+T154,A154,ECG Monitoring,Specialist referral and laboratory test,21.2
+T155,A155,Physical Therapy,Routine vital sign monitoring,31.5
+T156,A156,Diagnostic Scan,Routine vital sign monitoring,16.4
+T157,A157,ECG Monitoring,Routine vital sign monitoring,29.3
+T158,A158,ECG Monitoring,Diagnostic evaluation with review,22.4
+T159,A159,ECG Monitoring,Prescription adjustment and counseling,14.0
+T160,A160,ECG Monitoring,Prescription adjustment and counseling,23.3
+T161,A161,Medication,Prescription adjustment and counseling,10.1
+T162,A162,ECG Monitoring,Specialist referral and laboratory test,23.9
+T163,A163,Surgery Consultation,Specialist referral and laboratory test,40.8
+T164,A164,Medication,Prescription adjustment and counseling,10.9
+T165,A165,Physical Therapy,Routine vital sign monitoring,34.8
+T166,A166,Surgery Consultation,Clinical examination and therapy,37.1
+T167,A167,Surgery Consultation,Prescription adjustment and counseling,39.1
+T168,A168,Surgery Consultation,Clinical examination and therapy,44.5
+T169,A169,Surgery Consultation,Prescription adjustment and counseling,33.8
+T170,A170,Medication,Clinical examination and therapy,11.2
+T171,A171,Physical Therapy,Routine vital sign monitoring,25.6
+T172,A172,Physical Therapy,Specialist referral and laboratory test,25.9
+T173,A173,ECG Monitoring,Prescription adjustment and counseling,19.6
+T174,A174,Diagnostic Scan,Prescription adjustment and counseling,21.7
+T175,A175,Medication,Routine vital sign monitoring,16.4
+T176,A176,Physical Therapy,Diagnostic evaluation with review,34.1
+T177,A177,Medication,Prescription adjustment and counseling,15.1
+T178,A178,Medication,Clinical examination and therapy,22.3
+T179,A179,ECG Monitoring,Routine vital sign monitoring,18.7
+T180,A180,Physical Therapy,Diagnostic evaluation with review,43.6
+T181,A181,Diagnostic Scan,Prescription adjustment and counseling,23.1
+T182,A182,Diagnostic Scan,Prescription adjustment and counseling,15.7
+T183,A183,Diagnostic Scan,Specialist referral and laboratory test,14.6
+T184,A184,Surgery Consultation,Diagnostic evaluation with review,37.4
+T185,A185,Physical Therapy,Routine vital sign monitoring,28.9
+T186,A186,Surgery Consultation,Clinical examination and therapy,38.6
+T187,A187,Surgery Consultation,Prescription adjustment and counseling,37.4
+T188,A188,Surgery Consultation,Routine vital sign monitoring,34.6
+T189,A189,ECG Monitoring,Specialist referral and laboratory test,15.8
+T190,A190,ECG Monitoring,Prescription adjustment and counseling,12.4
+T191,A191,Medication,Diagnostic evaluation with review,12.8
+T192,A192,Medication,Routine vital sign monitoring,19.3
+T193,A193,Physical Therapy,Clinical examination and therapy,31.1
+T194,A194,Physical Therapy,Specialist referral and laboratory test,23.8
+T195,A195,ECG Monitoring,Routine vital sign monitoring,20.9
+T196,A196,Medication,Prescription adjustment and counseling,16.9
+T197,A197,Medication,Clinical examination and therapy,10.6
+T198,A198,Surgery Consultation,Prescription adjustment and counseling,35.8
+T199,A199,Diagnostic Scan,Prescription adjustment and counseling,20.3
+T200,A200,Diagnostic Scan,Diagnostic evaluation with review,14.3

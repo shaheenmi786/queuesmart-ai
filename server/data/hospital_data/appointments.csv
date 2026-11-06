@@ -1,0 +1,201 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,status,reason_for_visit
+A001,P014,D009,2023-01-04,09:00:00,Completed,Follow-up
+A002,P018,D004,2023-01-07,14:30:00,No-show,Follow-up
+A003,P036,D005,2023-01-10,10:00:00,Completed,Routine Checkup
+A004,P038,D006,2023-01-11,15:30:00,Completed,Follow-up
+A005,P017,D004,2023-01-11,09:00:00,Cancelled,Follow-up
+A006,P024,D007,2023-01-14,13:30:00,Cancelled,Diagnostic Review
+A007,P036,D002,2023-01-14,13:30:00,Completed,Routine Checkup
+A008,P046,D002,2023-01-14,08:30:00,No-show,Diagnostic Review
+A009,P022,D004,2023-01-15,15:30:00,Scheduled,Routine Checkup
+A010,P032,D007,2023-01-16,14:30:00,Completed,Follow-up
+A011,P045,D010,2023-01-21,10:30:00,Completed,Routine Checkup
+A012,P038,D009,2023-01-22,16:00:00,Scheduled,Follow-up
+A013,P007,D002,2023-01-26,15:00:00,Completed,Consultation
+A014,P018,D007,2023-01-27,15:30:00,Scheduled,Consultation
+A015,P004,D004,2023-02-05,13:30:00,No-show,Follow-up
+A016,P004,D007,2023-02-05,10:00:00,Completed,Emergency
+A017,P034,D003,2023-02-08,09:00:00,Cancelled,Emergency
+A018,P040,D005,2023-02-11,09:00:00,Completed,Routine Checkup
+A019,P035,D010,2023-02-12,09:00:00,Cancelled,Consultation
+A020,P013,D002,2023-02-22,09:30:00,Completed,Routine Checkup
+A021,P009,D004,2023-02-24,08:30:00,Scheduled,Emergency
+A022,P043,D002,2023-02-25,13:30:00,Cancelled,Routine Checkup
+A023,P008,D003,2023-02-28,13:30:00,No-show,Routine Checkup
+A024,P033,D008,2023-02-28,10:30:00,Cancelled,Consultation
+A025,P047,D008,2023-03-03,16:00:00,No-show,Routine Checkup
+A026,P039,D006,2023-03-06,10:00:00,Completed,Consultation
+A027,P040,D009,2023-03-07,16:00:00,Completed,Follow-up
+A028,P042,D006,2023-03-11,11:30:00,No-show,Follow-up
+A029,P027,D010,2023-03-20,10:00:00,Scheduled,Emergency
+A030,P013,D007,2023-03-20,15:00:00,No-show,Diagnostic Review
+A031,P038,D004,2023-03-25,08:30:00,No-show,Consultation
+A032,P008,D005,2023-03-26,15:30:00,Scheduled,Routine Checkup
+A033,P041,D006,2023-03-27,10:30:00,Completed,Follow-up
+A034,P048,D004,2023-04-01,09:30:00,Cancelled,Diagnostic Review
+A035,P049,D009,2023-04-04,10:30:00,Completed,Diagnostic Review
+A036,P044,D004,2023-04-12,13:30:00,Completed,Consultation
+A037,P002,D005,2023-04-13,14:30:00,Completed,Follow-up
+A038,P031,D005,2023-04-19,14:00:00,Scheduled,Consultation
+A039,P010,D008,2023-04-22,14:00:00,Scheduled,Routine Checkup
+A040,P003,D004,2023-04-23,10:30:00,Cancelled,Follow-up
+A041,P021,D008,2023-04-23,11:00:00,Cancelled,Emergency
+A042,P006,D003,2023-04-25,15:30:00,Scheduled,Follow-up
+A043,P009,D010,2023-05-03,10:30:00,Completed,Routine Checkup
+A044,P042,D004,2023-05-05,09:30:00,Scheduled,Follow-up
+A045,P049,D001,2023-05-07,14:00:00,Cancelled,Routine Checkup
+A046,P017,D006,2023-05-10,10:30:00,Completed,Routine Checkup
+A047,P023,D005,2023-05-12,08:30:00,Completed,Follow-up
+A048,P040,D007,2023-05-14,14:30:00,Scheduled,Emergency
+A049,P005,D009,2023-05-19,09:30:00,Completed,Diagnostic Review
+A050,P047,D008,2023-05-20,11:00:00,Completed,Diagnostic Review
+A051,P002,D006,2023-05-23,11:00:00,Completed,Routine Checkup
+A052,P003,D003,2023-06-02,10:00:00,Cancelled,Follow-up
+A053,P014,D008,2023-06-04,10:30:00,Completed,Emergency
+A054,P040,D010,2023-06-09,10:30:00,Completed,Diagnostic Review
+A055,P018,D004,2023-06-09,09:30:00,Completed,Consultation
+A056,P029,D004,2023-06-17,13:30:00,No-show,Consultation
+A057,P026,D007,2023-06-17,11:00:00,Completed,Routine Checkup
+A058,P010,D001,2023-06-22,14:00:00,Completed,Follow-up
+A059,P019,D001,2023-06-22,11:30:00,Cancelled,Emergency
+A060,P016,D008,2023-06-24,16:30:00,Cancelled,Emergency
+A061,P033,D008,2023-06-27,14:30:00,Completed,Diagnostic Review
+A062,P037,D009,2023-06-29,16:00:00,No-show,Emergency
+A063,P030,D010,2023-06-30,13:30:00,No-show,Emergency
+A064,P019,D006,2023-07-05,09:00:00,Cancelled,Consultation
+A065,P025,D010,2023-07-08,14:00:00,Completed,Emergency
+A066,P037,D005,2023-07-09,11:30:00,Completed,Consultation
+A067,P030,D003,2023-07-12,09:00:00,No-show,Follow-up
+A068,P045,D010,2023-07-14,11:00:00,Cancelled,Diagnostic Review
+A069,P001,D002,2023-07-14,10:00:00,Completed,Follow-up
+A070,P035,D004,2023-07-14,11:00:00,Scheduled,Emergency
+A071,P024,D004,2023-07-19,10:30:00,No-show,Consultation
+A072,P037,D003,2023-07-19,13:30:00,Completed,Emergency
+A073,P042,D003,2023-07-21,15:30:00,Completed,Consultation
+A074,P003,D001,2023-07-23,16:30:00,Completed,Emergency
+A075,P044,D005,2023-07-27,09:00:00,Cancelled,Emergency
+A076,P038,D006,2023-08-03,11:00:00,No-show,Routine Checkup
+A077,P039,D010,2023-08-04,10:30:00,Completed,Emergency
+A078,P014,D008,2023-08-04,10:30:00,Completed,Follow-up
+A079,P029,D006,2023-08-08,10:00:00,Completed,Consultation
+A080,P014,D008,2023-08-08,16:00:00,Completed,Routine Checkup
+A081,P041,D005,2023-08-10,14:30:00,Completed,Follow-up
+A082,P022,D003,2023-08-11,09:00:00,Completed,Emergency
+A083,P043,D006,2023-08-12,10:30:00,Scheduled,Follow-up
+A084,P013,D001,2023-08-21,14:00:00,Completed,Emergency
+A085,P005,D003,2023-08-24,10:00:00,Completed,Emergency
+A086,P026,D010,2023-08-25,10:00:00,Cancelled,Emergency
+A087,P015,D003,2023-08-27,09:30:00,Completed,Consultation
+A088,P035,D010,2023-08-27,10:30:00,No-show,Emergency
+A089,P016,D009,2023-08-28,13:30:00,Completed,Follow-up
+A090,P001,D009,2023-08-29,15:30:00,Completed,Emergency
+A091,P011,D008,2023-08-31,11:00:00,Cancelled,Diagnostic Review
+A092,P027,D006,2023-09-02,16:30:00,No-show,Emergency
+A093,P019,D007,2023-09-05,13:30:00,No-show,Emergency
+A094,P006,D005,2023-09-06,14:30:00,Completed,Consultation
+A095,P029,D004,2023-09-07,16:00:00,No-show,Diagnostic Review
+A096,P006,D005,2023-09-08,14:30:00,Cancelled,Routine Checkup
+A097,P016,D005,2023-09-17,13:30:00,Completed,Emergency
+A098,P036,D007,2023-09-25,09:30:00,Completed,Emergency
+A099,P050,D003,2023-09-30,10:00:00,Cancelled,Diagnostic Review
+A100,P012,D001,2023-10-01,15:30:00,No-show,Routine Checkup
+A101,P011,D004,2023-10-03,15:30:00,Scheduled,Routine Checkup
+A102,P028,D007,2023-10-03,08:30:00,Completed,Diagnostic Review
+A103,P041,D006,2023-10-04,09:00:00,No-show,Routine Checkup
+A104,P033,D003,2023-10-07,11:00:00,Completed,Routine Checkup
+A105,P021,D004,2023-10-16,08:30:00,Scheduled,Consultation
+A106,P029,D005,2023-10-16,13:30:00,Completed,Diagnostic Review
+A107,P036,D009,2023-10-17,14:30:00,Completed,Consultation
+A108,P028,D004,2023-10-22,16:30:00,Scheduled,Routine Checkup
+A109,P050,D007,2023-10-22,08:30:00,Completed,Routine Checkup
+A110,P009,D008,2023-10-24,13:30:00,Completed,Diagnostic Review
+A111,P035,D010,2023-10-31,13:30:00,Completed,Consultation
+A112,P043,D009,2023-10-31,14:30:00,No-show,Diagnostic Review
+A113,P019,D010,2023-11-04,09:00:00,Cancelled,Diagnostic Review
+A114,P003,D007,2023-11-05,13:30:00,Completed,Emergency
+A115,P030,D004,2023-11-07,09:30:00,No-show,Routine Checkup
+A116,P046,D002,2023-11-07,15:30:00,Scheduled,Diagnostic Review
+A117,P025,D008,2023-11-12,08:30:00,No-show,Emergency
+A118,P010,D006,2023-11-15,10:00:00,Scheduled,Routine Checkup
+A119,P044,D007,2023-11-15,16:30:00,Scheduled,Diagnostic Review
+A120,P004,D009,2023-11-18,08:30:00,Scheduled,Emergency
+A121,P032,D009,2023-11-22,16:00:00,Cancelled,Diagnostic Review
+A122,P028,D007,2023-11-26,10:30:00,Cancelled,Consultation
+A123,P026,D009,2023-11-28,10:30:00,Cancelled,Routine Checkup
+A124,P050,D004,2023-11-29,09:30:00,Cancelled,Consultation
+A125,P006,D010,2023-11-30,13:30:00,Completed,Diagnostic Review
+A126,P039,D006,2023-11-30,09:00:00,Completed,Emergency
+A127,P028,D008,2023-12-05,14:00:00,Completed,Diagnostic Review
+A128,P004,D001,2023-12-06,16:00:00,Completed,Emergency
+A129,P016,D008,2023-12-09,09:30:00,Completed,Routine Checkup
+A130,P018,D004,2023-12-09,08:30:00,No-show,Emergency
+A131,P001,D008,2023-12-13,10:30:00,Completed,Emergency
+A132,P021,D007,2023-12-14,14:00:00,Scheduled,Follow-up
+A133,P015,D009,2023-12-17,10:00:00,Completed,Routine Checkup
+A134,P047,D008,2023-12-20,15:00:00,Completed,Routine Checkup
+A135,P020,D008,2023-12-23,16:00:00,Scheduled,Diagnostic Review
+A136,P032,D005,2023-12-23,16:30:00,Completed,Emergency
+A137,P012,D002,2023-12-25,10:30:00,Completed,Follow-up
+A138,P037,D004,2023-12-29,10:30:00,Completed,Routine Checkup
+A139,P024,D007,2024-01-02,11:30:00,No-show,Consultation
+A140,P025,D004,2024-01-03,16:00:00,Completed,Routine Checkup
+A141,P031,D002,2024-01-06,10:00:00,Cancelled,Consultation
+A142,P047,D002,2024-01-11,10:00:00,Scheduled,Consultation
+A143,P008,D005,2024-01-12,16:30:00,Completed,Follow-up
+A144,P045,D004,2024-01-18,16:30:00,Completed,Follow-up
+A145,P034,D004,2024-01-18,13:30:00,Completed,Emergency
+A146,P027,D007,2024-01-19,11:00:00,Scheduled,Emergency
+A147,P012,D004,2024-01-21,16:00:00,No-show,Consultation
+A148,P010,D007,2024-01-21,15:30:00,Scheduled,Diagnostic Review
+A149,P011,D005,2024-01-22,15:30:00,Completed,Routine Checkup
+A150,P039,D009,2024-01-25,15:30:00,Scheduled,Routine Checkup
+A151,P002,D004,2024-01-27,11:00:00,No-show,Diagnostic Review
+A152,P007,D009,2024-01-28,08:30:00,Cancelled,Routine Checkup
+A153,P041,D003,2024-01-31,14:30:00,Cancelled,Follow-up
+A154,P032,D007,2024-02-01,14:30:00,Scheduled,Consultation
+A155,P042,D001,2024-02-03,09:00:00,Cancelled,Emergency
+A156,P007,D007,2024-02-04,10:00:00,Scheduled,Diagnostic Review
+A157,P015,D007,2024-02-05,14:30:00,Completed,Emergency
+A158,P027,D010,2024-02-12,11:30:00,Completed,Follow-up
+A159,P008,D006,2024-02-13,10:00:00,Completed,Follow-up
+A160,P012,D002,2024-02-14,09:30:00,Completed,Diagnostic Review
+A161,P046,D006,2024-02-17,14:00:00,Cancelled,Emergency
+A162,P022,D007,2024-02-18,11:30:00,Scheduled,Routine Checkup
+A163,P021,D001,2024-02-24,16:30:00,Completed,Consultation
+A164,P020,D002,2024-02-26,14:30:00,Scheduled,Follow-up
+A165,P049,D003,2024-02-29,15:00:00,Scheduled,Emergency
+A166,P024,D001,2024-03-01,15:00:00,Scheduled,Follow-up
+A167,P009,D006,2024-03-01,10:30:00,Scheduled,Follow-up
+A168,P001,D002,2024-03-03,10:00:00,No-show,Diagnostic Review
+A169,P005,D003,2024-03-03,11:30:00,Completed,Routine Checkup
+A170,P031,D005,2024-03-05,10:30:00,No-show,Diagnostic Review
+A171,P005,D006,2024-03-06,11:30:00,Scheduled,Follow-up
+A172,P023,D005,2024-03-10,11:30:00,Scheduled,Consultation
+A173,P020,D009,2024-03-11,09:00:00,Scheduled,Routine Checkup
+A174,P015,D003,2024-03-12,14:30:00,Scheduled,Consultation
+A175,P046,D001,2024-03-14,14:30:00,No-show,Consultation
+A176,P049,D007,2024-03-19,15:30:00,Completed,Diagnostic Review
+A177,P026,D006,2024-03-26,10:30:00,Completed,Diagnostic Review
+A178,P050,D009,2024-03-26,14:00:00,No-show,Follow-up
+A179,P044,D007,2024-04-01,14:30:00,Completed,Follow-up
+A180,P025,D002,2024-04-01,10:00:00,Scheduled,Consultation
+A181,P048,D001,2024-04-04,10:00:00,Completed,Routine Checkup
+A182,P048,D007,2024-04-09,16:30:00,Scheduled,Routine Checkup
+A183,P002,D005,2024-04-09,15:00:00,Cancelled,Emergency
+A184,P022,D001,2024-04-15,13:30:00,No-show,Follow-up
+A185,P048,D007,2024-04-15,14:00:00,Cancelled,Routine Checkup
+A186,P017,D010,2024-04-20,11:00:00,Scheduled,Routine Checkup
+A187,P031,D007,2024-04-27,10:30:00,Completed,Diagnostic Review
+A188,P043,D002,2024-04-27,09:00:00,Scheduled,Follow-up
+A189,P007,D001,2024-04-29,11:30:00,Completed,Consultation
+A190,P034,D009,2024-04-30,15:30:00,No-show,Diagnostic Review
+A191,P023,D009,2024-05-01,16:00:00,Scheduled,Emergency
+A192,P033,D002,2024-05-02,13:30:00,Completed,Consultation
+A193,P017,D005,2024-05-02,14:00:00,Completed,Emergency
+A194,P023,D001,2024-05-03,15:00:00,Cancelled,Emergency
+A195,P030,D003,2024-05-05,15:30:00,Completed,Routine Checkup
+A196,P045,D004,2024-05-05,13:30:00,Completed,Routine Checkup
+A197,P011,D006,2024-05-06,15:30:00,Completed,Follow-up
+A198,P020,D005,2024-05-08,15:00:00,Scheduled,Consultation
+A199,P013,D008,2024-05-08,14:30:00,Completed,Consultation
+A200,P034,D007,2024-05-09,14:00:00,Scheduled,Follow-up

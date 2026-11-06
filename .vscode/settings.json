@@ -1,0 +1,18 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/server_venv/Scripts/python.exe",
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestArgs": [
+    "server/tests"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/server"
+  ],
+  "typescript.tsdk": "client/node_modules/typescript/lib",
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.pytest_cache": true,
+    "**/__pycache__": true
+  }
+}

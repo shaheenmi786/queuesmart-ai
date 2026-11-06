@@ -1,0 +1,34 @@
+# Node dependencies
+node_modules/
+client/node_modules/
+client/dist/
+client/.env
+client/.env.local
+
+# Python virtual environment & cache
+server_venv/
+server/venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+server/__pycache__/
+server/*/__pycache__/
+server/*/*/__pycache__/
+.pytest_cache/
+server/.pytest_cache/
+
+# Databases & local environment
+*.sqlite3
+*.db
+server/queuesmart.db
+.env
+server/.env
+
+# Archives & logs
+*.zip
+*.tar.gz
+*.log
+.DS_Store
+Thumbs.db

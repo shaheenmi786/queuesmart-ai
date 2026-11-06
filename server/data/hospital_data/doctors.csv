@@ -1,0 +1,11 @@
+doctor_id,specialization,years_experience,hospital_branch
+D001,Cardiology,24,Downtown Clinic
+D002,Cardiology,23,Main Campus
+D003,Orthopedics,14,West Wing
+D004,Orthopedics,17,West Wing
+D005,Pediatrics,19,Main Campus
+D006,Pediatrics,17,Main Campus
+D007,General Medicine,6,Main Campus
+D008,General Medicine,10,West Wing
+D009,Neurology,10,Main Campus
+D010,Dermatology,5,Main Campus

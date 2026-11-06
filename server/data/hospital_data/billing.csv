@@ -1,0 +1,201 @@
+billing_id,treatment_id,patient_id,cost,payment_method,payment_status
+B001,T001,P014,272.36,Credit Card,Paid
+B002,T002,P018,2052.35,Cash,Paid
+B003,T003,P036,317.69,Direct Deposit,Pending
+B004,T004,P038,2274.21,Credit Card,Failed
+B005,T005,P017,295.01,Credit Card,Paid
+B006,T006,P024,1377.98,Credit Card,Failed
+B007,T007,P036,282.19,Credit Card,Paid
+B008,T008,P046,1072.02,Insurance,Pending
+B009,T009,P022,2031.77,Cash,Paid
+B010,T010,P032,490.8,Insurance,Paid
+B011,T011,P045,285.68,Insurance,Pending
+B012,T012,P038,1219.7,Cash,Paid
+B013,T013,P007,309.63,Credit Card,Failed
+B014,T014,P018,290.71,Direct Deposit,Paid
+B015,T015,P004,414.53,Credit Card,Failed
+B016,T016,P004,297.44,Credit Card,Paid
+B017,T017,P034,201.7,Credit Card,Pending
+B018,T018,P040,1693.43,Credit Card,Paid
+B019,T019,P035,219.66,Direct Deposit,Paid
+B020,T020,P013,255.12,Insurance,Paid
+B021,T021,P009,710.4,Direct Deposit,Paid
+B022,T022,P043,133.3,Cash,Paid
+B023,T023,P008,292.89,Credit Card,Paid
+B024,T024,P033,268.57,Direct Deposit,Pending
+B025,T025,P047,220.5,Cash,Failed
+B026,T026,P039,572.51,Direct Deposit,Pending
+B027,T027,P040,254.02,Credit Card,Failed
+B028,T028,P042,182.64,Credit Card,Paid
+B029,T029,P027,1478.11,Cash,Paid
+B030,T030,P013,292.47,Direct Deposit,Paid
+B031,T031,P038,367.83,Credit Card,Pending
+B032,T032,P008,263.53,Cash,Paid
+B033,T033,P041,1820.51,Direct Deposit,Failed
+B034,T034,P048,209.27,Direct Deposit,Paid
+B035,T035,P049,384.0,Cash,Pending
+B036,T036,P044,521.32,Direct Deposit,Paid
+B037,T037,P002,888.69,Direct Deposit,Paid
+B038,T038,P031,261.65,Credit Card,Paid
+B039,T039,P010,208.64,Credit Card,Paid
+B040,T040,P003,303.28,Credit Card,Pending
+B041,T041,P021,200.47,Cash,Paid
+B042,T042,P006,242.83,Insurance,Pending
+B043,T043,P009,2027.24,Direct Deposit,Paid
+B044,T044,P042,304.11,Cash,Paid
+B045,T045,P049,314.97,Insurance,Paid
+B046,T046,P017,1649.47,Insurance,Paid
+B047,T047,P023,220.32,Cash,Failed
+B048,T048,P040,209.17,Insurance,Failed
+B049,T049,P005,2594.45,Credit Card,Paid
+B050,T050,P047,275.31,Cash,Paid
+B051,T051,P002,171.19,Direct Deposit,Paid
+B052,T052,P003,1167.99,Credit Card,Paid
+B053,T053,P014,688.74,Direct Deposit,Paid
+B054,T054,P040,314.53,Insurance,Failed
+B055,T055,P018,155.04,Credit Card,Paid
+B056,T056,P029,834.99,Direct Deposit,Paid
+B057,T057,P026,1250.89,Cash,Paid
+B058,T058,P010,1481.55,Insurance,Paid
+B059,T059,P019,499.93,Direct Deposit,Paid
+B060,T060,P016,537.15,Insurance,Pending
+B061,T061,P033,192.07,Direct Deposit,Paid
+B062,T062,P037,935.86,Cash,Paid
+B063,T063,P030,85.36,Credit Card,Failed
+B064,T064,P019,185.98,Direct Deposit,Failed
+B065,T065,P025,421.59,Insurance,Paid
+B066,T066,P037,172.01,Cash,Pending
+B067,T067,P030,633.65,Credit Card,Failed
+B068,T068,P045,1156.44,Insurance,Paid
+B069,T069,P001,845.49,Cash,Failed
+B070,T070,P035,258.17,Insurance,Paid
+B071,T071,P024,340.08,Cash,Paid
+B072,T072,P037,608.98,Credit Card,Paid
+B073,T073,P042,1226.25,Credit Card,Pending
+B074,T074,P003,952.43,Insurance,Pending
+B075,T075,P044,188.66,Cash,Failed
+B076,T076,P038,1059.75,Direct Deposit,Pending
+B077,T077,P039,997.28,Credit Card,Pending
+B078,T078,P014,212.49,Direct Deposit,Failed
+B079,T079,P029,254.36,Direct Deposit,Paid
+B080,T080,P014,1626.61,Insurance,Paid
+B081,T081,P041,462.77,Insurance,Paid
+B082,T082,P022,291.38,Insurance,Paid
+B083,T083,P043,349.13,Cash,Pending
+B084,T084,P013,172.64,Credit Card,Pending
+B085,T085,P005,2759.87,Credit Card,Failed
+B086,T086,P026,230.39,Direct Deposit,Paid
+B087,T087,P015,432.92,Insurance,Paid
+B088,T088,P035,516.19,Cash,Failed
+B089,T089,P016,1926.45,Credit Card,Failed
+B090,T090,P001,802.11,Cash,Paid
+B091,T091,P011,426.59,Insurance,Paid
+B092,T092,P027,394.54,Insurance,Pending
+B093,T093,P019,1534.79,Credit Card,Failed
+B094,T094,P006,1151.78,Direct Deposit,Paid
+B095,T095,P029,490.16,Direct Deposit,Paid
+B096,T096,P006,372.05,Insurance,Failed
+B097,T097,P016,1163.65,Insurance,Paid
+B098,T098,P036,269.21,Direct Deposit,Paid
+B099,T099,P050,300.8,Insurance,Paid
+B100,T100,P012,520.83,Credit Card,Paid
+B101,T101,P011,198.19,Credit Card,Paid
+B102,T102,P028,816.96,Cash,Paid
+B103,T103,P041,1127.48,Direct Deposit,Paid
+B104,T104,P033,288.15,Insurance,Failed
+B105,T105,P021,945.04,Cash,Paid
+B106,T106,P029,1852.8,Credit Card,Paid
+B107,T107,P036,1253.45,Direct Deposit,Paid
+B108,T108,P028,809.5,Credit Card,Paid
+B109,T109,P050,1079.94,Insurance,Failed
+B110,T110,P009,237.36,Cash,Paid
+B111,T111,P035,1702.04,Insurance,Paid
+B112,T112,P043,1210.96,Insurance,Paid
+B113,T113,P019,2171.44,Direct Deposit,Failed
+B114,T114,P003,2166.08,Direct Deposit,Failed
+B115,T115,P030,2387.47,Insurance,Paid
+B116,T116,P046,251.31,Direct Deposit,Failed
+B117,T117,P025,1111.96,Cash,Paid
+B118,T118,P010,230.61,Cash,Failed
+B119,T119,P044,270.26,Insurance,Failed
+B120,T120,P004,241.87,Cash,Paid
+B121,T121,P032,256.06,Insurance,Paid
+B122,T122,P028,1091.35,Cash,Failed
+B123,T123,P026,198.86,Credit Card,Failed
+B124,T124,P050,2741.57,Insurance,Paid
+B125,T125,P006,187.12,Cash,Failed
+B126,T126,P039,313.4,Credit Card,Paid
+B127,T127,P028,322.38,Insurance,Paid
+B128,T128,P004,539.06,Cash,Paid
+B129,T129,P016,520.21,Cash,Paid
+B130,T130,P018,520.69,Credit Card,Failed
+B131,T131,P001,1794.49,Direct Deposit,Paid
+B132,T132,P021,193.92,Direct Deposit,Paid
+B133,T133,P015,968.0,Credit Card,Failed
+B134,T134,P047,1495.28,Credit Card,Pending
+B135,T135,P020,1181.59,Insurance,Failed
+B136,T136,P032,240.81,Direct Deposit,Paid
+B137,T137,P012,1428.53,Insurance,Pending
+B138,T138,P037,413.84,Cash,Failed
+B139,T139,P024,1985.82,Credit Card,Paid
+B140,T140,P025,1546.32,Insurance,Paid
+B141,T141,P031,198.61,Credit Card,Pending
+B142,T142,P047,477.41,Insurance,Paid
+B143,T143,P008,477.56,Cash,Pending
+B144,T144,P045,218.32,Cash,Paid
+B145,T145,P034,220.56,Direct Deposit,Pending
+B146,T146,P027,1005.11,Direct Deposit,Paid
+B147,T147,P012,159.49,Cash,Paid
+B148,T148,P010,162.03,Insurance,Paid
+B149,T149,P011,1476.7,Credit Card,Pending
+B150,T150,P039,425.99,Cash,Pending
+B151,T151,P002,1939.91,Cash,Pending
+B152,T152,P007,342.21,Insurance,Pending
+B153,T153,P041,2185.95,Cash,Paid
+B154,T154,P032,432.01,Cash,Paid
+B155,T155,P042,248.81,Insurance,Failed
+B156,T156,P007,711.9,Cash,Paid
+B157,T157,P015,447.92,Direct Deposit,Paid
+B158,T158,P027,417.53,Direct Deposit,Paid
+B159,T159,P008,486.31,Direct Deposit,Paid
+B160,T160,P012,356.94,Direct Deposit,Pending
+B161,T161,P046,282.46,Cash,Paid
+B162,T162,P022,622.43,Credit Card,Paid
+B163,T163,P021,1751.06,Direct Deposit,Failed
+B164,T164,P020,275.11,Direct Deposit,Failed
+B165,T165,P049,293.13,Cash,Paid
+B166,T166,P024,1619.45,Cash,Paid
+B167,T167,P009,1900.84,Insurance,Paid
+B168,T168,P001,1805.67,Direct Deposit,Pending
+B169,T169,P005,1843.95,Insurance,Paid
+B170,T170,P031,201.69,Direct Deposit,Paid
+B171,T171,P005,251.53,Credit Card,Pending
+B172,T172,P023,281.12,Cash,Paid
+B173,T173,P020,613.25,Cash,Paid
+B174,T174,P015,1177.83,Insurance,Paid
+B175,T175,P046,384.57,Insurance,Paid
+B176,T176,P049,202.04,Cash,Paid
+B177,T177,P026,304.52,Cash,Pending
+B178,T178,P050,261.46,Cash,Failed
+B179,T179,P044,696.35,Direct Deposit,Pending
+B180,T180,P025,199.48,Direct Deposit,Paid
+B181,T181,P048,750.57,Credit Card,Paid
+B182,T182,P048,807.64,Direct Deposit,Paid
+B183,T183,P002,445.57,Cash,Failed
+B184,T184,P022,1563.41,Direct Deposit,Paid
+B185,T185,P048,202.55,Insurance,Paid
+B186,T186,P017,1867.68,Cash,Paid
+B187,T187,P031,1953.79,Direct Deposit,Pending
+B188,T188,P043,2644.28,Cash,Failed
+B189,T189,P007,556.92,Insurance,Pending
+B190,T190,P034,385.1,Insurance,Pending
+B191,T191,P023,193.85,Direct Deposit,Paid
+B192,T192,P033,280.74,Cash,Pending
+B193,T193,P017,167.49,Credit Card,Paid
+B194,T194,P023,364.47,Insurance,Paid
+B195,T195,P030,582.69,Credit Card,Pending
+B196,T196,P045,220.68,Direct Deposit,Failed
+B197,T197,P011,142.93,Insurance,Pending
+B198,T198,P020,2409.24,Credit Card,Paid
+B199,T199,P013,922.8,Insurance,Paid
+B200,T200,P034,1243.98,Credit Card,Failed
