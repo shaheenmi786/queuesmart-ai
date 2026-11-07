@@ -3,7 +3,7 @@ echo ========================================================
 echo  QueueSmart AI - Starting Full Stack Application
 echo ========================================================
 echo Starting Flask Backend Server (Port 5000)...
-start "QueueSmart AI - Backend" cmd /k "cd /d %~dp0server && ..\server_venv\Scripts\python.exe app.py"
+start "QueueSmart AI - Backend" cmd /k "cd /d %~dp0server && if exist venv\Scripts\python.exe (venv\Scripts\python.exe app.py) else (..\server_venv\Scripts\python.exe app.py)"
 
 echo Starting Vite Frontend Server (Port 5173)...
 start "QueueSmart AI - Frontend" cmd /k "cd /d %~dp0client && npm run dev -- --open"
